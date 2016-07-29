@@ -1,0 +1,15 @@
+
+body{
+    margin: 10px;
+}
+
+.col-md-1 {
+    background-color: rgba(86, 61, 124, 0.15);
+    border: 1px solid white;
+}
+.col-md-4 {
+    background-color: #ccc;
+    border: 1px solid white;
+}
+
+
