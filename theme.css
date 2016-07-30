@@ -1,0 +1,41 @@
+
+.container-fluid .navbar-header {
+    padding-left: 70px;
+
+}
+
+.jumbotron {
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 6px;
+}
+
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+.progress .simple {
+    width:66%;
+}
+.progress .progress-bar-success {
+    width:42%;
+}
+.progress .progress-bar-info {
+    width:22%;
+}
+.progress .progress-bar-warning {
+    width:63%;
+}
+.progress .progress-bar-danger {
+    width:84%;
+}
